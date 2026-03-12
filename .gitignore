@@ -11,3 +11,5 @@ Package.resolved
 /public
 /docs
 .benchmarkBaselines
+.cursor/
+.mcpower/
