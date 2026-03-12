@@ -13,3 +13,6 @@ Package.resolved
 .benchmarkBaselines
 .cursor/
 .mcpower/
+.env
+.env.*
+!.env.example

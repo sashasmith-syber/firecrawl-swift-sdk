@@ -1,6 +1,9 @@
 /**
  * Orchestration layer: SyberSpider → URL discovery → Security Gate → Firecrawl Batch → Supabase.
  *
+ * Initialize: new SpiderFirecrawlPipeline(spider, firecrawl, securityGate, persistResults, logSecurityEvent?)
+ * then call pipeline.execute(seedURL, config).
+ *
  * Flow:
  * 1. Spider discovers URLs (via SyberSpider/Spider entity API)
  * 2. Security Gate validates URL batch

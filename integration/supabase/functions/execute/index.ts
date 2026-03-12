@@ -14,7 +14,7 @@
 
 import { createClient } from "https://esm.sh/@supabase/supabase-js@2";
 import { SecurityGate, DEFAULT_SECURITY_GATE_CONFIG } from "../_shared/securityGate.ts";
-import { getClientIp, hashPayload, type RequestContext } from "../_shared/security.ts";
+import { getClientIp, hashPayload, isWhitelisted, type RequestContext } from "../_shared/security.ts";
 import { trackFirecrawlUsage, getUserTier } from "../_shared/billing.ts";
 
 const corsHeaders = {
@@ -25,6 +25,18 @@ const corsHeaders = {
 Deno.serve(async (req: Request) => {
   if (req.method === "OPTIONS") {
     return new Response("ok", { headers: corsHeaders });
+  }
+
+  // Strict-Deny: all requests must be authenticated unless whitelisted in security.ts
+  if (!isWhitelisted(req)) {
+    const authHeader = req.headers.get("Authorization");
+    const hasBearer = authHeader?.startsWith("Bearer ");
+    if (!hasBearer) {
+      return new Response(
+        JSON.stringify({ error: "Unauthorized. All requests must be authenticated via the integration pipeline unless whitelisted." }),
+        { status: 401, headers: { ...corsHeaders, "Content-Type": "application/json" } }
+      );
+    }
   }
 
   const supabase = createClient(
@@ -98,12 +110,12 @@ Deno.serve(async (req: Request) => {
     );
   }
 
-  // Resolve Firecrawl API key (Vault preferred; env fallback for single-tenant)
+  // Do not proceed with external requests until Firecrawl API key is validated as PRESENT.
   const apiKey = Deno.env.get("FIRECRAWL_API_KEY");
-  if (!apiKey) {
+  if (!apiKey || apiKey.trim() === "") {
     await gate.recordFailedAttempt(ip);
     return new Response(
-      JSON.stringify({ error: "Firecrawl API key not configured" }),
+      JSON.stringify({ error: "Firecrawl API key not configured. External requests are not permitted until FIRECRAWL_API_KEY is validated as PRESENT in the environment." }),
       { status: 503, headers: { ...corsHeaders, "Content-Type": "application/json" } }
     );
   }

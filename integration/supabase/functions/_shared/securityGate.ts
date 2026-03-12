@@ -1,9 +1,13 @@
 /**
  * HIKARU Security Gate – enforce policies on all Firecrawl and SyberSpider requests.
  *
+ * Strict-Deny policy: all requests must be authenticated via the integration pipeline
+ * unless explicitly whitelisted in security.ts (e.g. OPTIONS, /health). Enforced at
+ * the Edge Function entry (execute/index.ts) before this gate runs.
+ *
  * - Credential stuffing: max 5 failed attempts → 30 min IP lockout
  * - Burst protection: 20 requests / 60 seconds → block + alert
- * - Tier-based daily limits (Free/Pro/Enterprise)
+ * - Tier-based daily limits (Free/Pro/Enterprise), capped at 90% in billing.ts
  * - URL validation against blocklist
  * - Optional geo and behavioral checks
  *
@@ -181,20 +185,21 @@ export class SecurityGate {
   }
 
   /**
-   * Check tier-based daily API limit. Throws if over limit.
+   * Check tier-based daily API limit (capped at 90% of threshold). Throws if at or over cap.
    * Call after checkRequest and before executing Firecrawl.
    */
   async checkTierLimit(context: RequestContext, resourcePrefix: string): Promise<void> {
     if (!context.userId) return; // Optional: allow anonymous with strict IP limit only
     const limit = TIER_DAILY_API_LIMITS[context.tier];
+    const cap = Math.floor(limit * 0.9);
     const { data, error } = await this.supabase.rpc("get_daily_usage", {
       p_user_id: context.userId,
       p_resource_type: `${resourcePrefix}%`,
     });
     if (error) throw new Error(`Usage check failed: ${error.message}`);
     const total = (data as { total?: number } | null)?.total ?? 0;
-    if (total >= limit) {
-      throw new Error(`Daily API limit exceeded (${limit} for ${context.tier} tier).`);
+    if (total >= cap) {
+      throw new Error(`Credit usage capped at 90% (${cap}/${limit} for ${context.tier} tier). Service interruption prevented.`);
     }
   }
 
