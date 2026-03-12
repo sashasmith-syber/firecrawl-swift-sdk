@@ -1,6 +1,7 @@
 /**
  * Usage tracking and tier limits for Firecrawl operations.
  * Integrates with usage_tracking, usage_daily_aggregates, and Stripe-backed tiers.
+ * Credit usage is capped at 90% of tier threshold to prevent service interruption or overages.
  *
  * @see docs/SECURITY_GATE.md (rate limit per user tier)
  * @see AUDIT_STATUS_AND_MONETIZATION.md (tier limits)
@@ -8,6 +9,9 @@
 
 import type { SupabaseClient } from "https://esm.sh/@supabase/supabase-js@2";
 import { TIER_DAILY_API_LIMITS } from "./security.ts";
+
+/** Cap usage at 90% of tier limit to avoid overages and service interruption. */
+export const USAGE_CAP_RATIO = 0.9;
 
 export type FirecrawlOperation = "scrape" | "crawl" | "agent" | "map" | "batch_scrape";
 
@@ -48,6 +52,7 @@ export async function trackFirecrawlUsage(
 
   const tier = await getUserTier(supabase, userId);
   const limit = TIER_LIMITS[tier].firecrawl;
+  const cap = Math.floor(limit * USAGE_CAP_RATIO);
 
   const { data, error } = await supabase.rpc("get_daily_usage", {
     p_user_id: userId,
@@ -57,9 +62,9 @@ export async function trackFirecrawlUsage(
   if (error) throw new Error(`Daily usage check failed: ${error.message}`);
 
   const total = (data as { total?: number } | null)?.total ?? 0;
-  if (total > limit) {
+  if (total >= cap) {
     throw new Error(
-      `Daily API limit exceeded (${limit} for ${tier} tier). Used: ${total}.`
+      `Credit usage capped at 90% of threshold (${cap}/${limit} for ${tier} tier). Used: ${total}. Service interruption prevented.`
     );
   }
 }

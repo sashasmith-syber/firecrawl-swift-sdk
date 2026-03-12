@@ -50,22 +50,30 @@ public final class FirecrawlService: Sendable {
     ///   - baseURL: Optional base URL (defaults to https://api.firecrawl.dev).
     ///   - retryConfig: Retry with exponential backoff (default 3 attempts).
     ///   - logger: Optional logger.
-    /// - Throws: FirecrawlError if `FIRECRAWL_API_KEY` is missing or empty.
+    /// - Throws: `FirecrawlError.configurationError` if `FIRECRAWL_API_KEY` is missing or empty.
     public init(
         baseURL: String = "https://api.firecrawl.dev",
         retryConfig: RetryConfig = .default,
         logger: Logger? = nil
     ) throws {
+        try Self.validateEnvironment()
+        let apiKey = ProcessInfo.processInfo.environment[Self.apiKeyEnvironmentKey]!
+        self.client = FirecrawlClient(apiKey: apiKey.trimmingCharacters(in: .whitespacesAndNewlines), baseURL: baseURL, logger: logger)
+        self.retryConfig = retryConfig
+        self.logger = logger ?? Logger(label: "firecrawl-service")
+    }
+
+    /// Validates that required environment variables (e.g. API key) are present.
+    /// Call before making any external requests; throws if configuration is invalid.
+    /// - Throws: `FirecrawlError.configurationError` if `FIRECRAWL_API_KEY` is missing or empty.
+    public static func validateEnvironment() throws {
         guard let apiKey = ProcessInfo.processInfo.environment[Self.apiKeyEnvironmentKey],
               !apiKey.trimmingCharacters(in: .whitespacesAndNewlines).isEmpty
         else {
-            throw FirecrawlError.unauthorized(
-                "Missing or empty \(Self.apiKeyEnvironmentKey). Set it in the environment and never hardcode."
+            throw FirecrawlError.configurationError(
+                "Missing or empty \(Self.apiKeyEnvironmentKey). Set it in the environment and never hardcode. External requests are not permitted until the key is validated as PRESENT."
             )
         }
-        self.client = FirecrawlClient(apiKey: apiKey, baseURL: baseURL, logger: logger)
-        self.retryConfig = retryConfig
-        self.logger = logger ?? Logger(label: "firecrawl-service")
     }
 
     /// Create service with an explicitly provided API key (e.g. from a secure vault).

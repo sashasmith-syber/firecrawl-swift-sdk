@@ -5,7 +5,29 @@
  * - Rate limiting (per-user and per-IP)
  * - Request context extraction
  * - Payload hashing for audit
+ * - Strict-Deny: all requests must be authenticated unless explicitly whitelisted
  */
+
+/** Paths or methods that do not require authentication (Strict-Deny whitelist). */
+export const WHITELISTED_METHODS = new Set<string>(["OPTIONS"]);
+/** Path patterns (e.g. /health) that are allowed without auth. Empty = none. */
+export const WHITELISTED_PATH_PREFIXES: string[] = ["/health"];
+
+/**
+ * Returns true if the request is whitelisted and may bypass authentication.
+ * All other requests must be authenticated via the integration pipeline (Bearer token).
+ */
+export function isWhitelisted(req: Request): boolean {
+  if (WHITELISTED_METHODS.has(req.method)) return true;
+  try {
+    const url = new URL(req.url);
+    const path = url.pathname;
+    if (WHITELISTED_PATH_PREFIXES.some((p) => path === p || path.startsWith(p + "/"))) return true;
+  } catch {
+    // ignore
+  }
+  return false;
+}
 
 export interface RequestContext {
   userId: string | null;
