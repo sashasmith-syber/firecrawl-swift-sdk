@@ -1,0 +1,1456 @@
+{
+  "success": true,
+  "id": "019d2fc5-fdbd-779c-9a90-98d30c05779b",
+  "status": "completed",
+  "data": {
+    "products": [
+      {
+        "name": "Crayon",
+        "website": "https://crayon.co",
+        "category": [
+          "market intelligence",
+          "sales enablement",
+          "competitor monitoring",
+          "competitive intelligence"
+        ],
+        "positioning_summary": "Drive More Competitive Wins with Automated Insights Crayon AI mines intel from your data, creates instant content, and enables your reps with talk tracks and sales plays that actually help them close more deals.",
+        "target_users": [
+          "Marketing teams",
+          "Sales teams",
+          "Product managers",
+          "Competitive intelligence teams"
+        ],
+        "key_use_cases": [
+          "- Enable\n- Compete\n- Measure\n\n### Competitor Monitoring\n\n- Intel in your inbox Start your day by reviewing the high-priority insights that Crayon auto",
+          "changes in your competitive landscape by sorting insights from high to low importance",
+          "your performance against the competition over time",
+          "who is and isn't using battlecards and how that affects their performance in competitive deals",
+          "and outsmart your competitors\n\n![Blog Image (600x400)](https://www"
+        ],
+        "key_features": [
+          "Intel in your inbox Start your day by reviewing the high-priority insights that Crayon automatically surfaces to your inbox.",
+          "AI news summarization Crayon automatically distills articles about your competitors into takeaways that you can share with colleagues.",
+          "AI importance scoring Efficiently analyze changes in your competitive landscape by sorting insights from high to low importance.",
+          "Battlecards Put the intel sellers need to win competitive deals at their fingertips in Salesforce, Slack, Highspot, and other tools.",
+          "Announcements Spotlight recent insights and battlecard updates that will make it easier for sellers to win competitive deals.",
+          "Newsletters Keep everyone at your company up to date on the latest changes in your competitive landscape.",
+          "Intel at your fingertips Find the intel you need to win competitive deals in Salesforce, Slack, and all your other favorite tools.",
+          "Team leaderboard Learn from your teammates who consistently win competitive deals.",
+          "1:1 Coaching Get help from your manager as they monitor your performance against the competition over time.",
+          "Win/loss analysis Prioritize competitors with data that tells you which ones give your sales team the most trouble.",
+          "Engagement data Identify who is and isn't using battlecards and how that affects their performance in competitive deals.",
+          "Influenced revenue Show senior leaders the amount of revenue that your battlecards have helped the sales team close."
+        ],
+        "data_sources_claimed": [
+          "social media",
+          "news"
+        ],
+        "integrations_claimed": [
+          "Slack",
+          "Zoom",
+          "Highspot",
+          "Gong",
+          "Salesforce"
+        ],
+        "notable_quotes": [
+          "Crayon lets us scale to the thousands of go-to-market colleagues who we want to support with competitive intelligence.",
+          "Competitive intelligence needs to be as easy as possible for sales reps to consume. Crayon is the ideal solution to meet that need.",
+          "Crayon allows you to read between the lines of what your competitors are doing and quickly implement that into your enablement motion."
+        ]
+      },
+      {
+        "name": "Klue",
+        "website": "https://klue.com",
+        "category": [
+          "competitive intelligence",
+          "sales enablement",
+          "market intelligence"
+        ],
+        "positioning_summary": "Klue Compete Agent - Automatically collect, curate, and share competitive intel throughout your organization. Eliminate manual work and deliver real-time competitive deal intelligence directly to sellers.",
+        "target_users": [
+          "Sales teams",
+          "Product managers",
+          "Competitive intelligence teams"
+        ],
+        "key_use_cases": [
+          "objective feedback from your buyers to remove bias from decisions being made about your product and go-to-market strategy\n\n[LEARN MORE](https://klue"
+        ],
+        "key_features": [
+          "Compete Agent - AI agent designed to eliminate manual work",
+          "Automatically collect, curate, and share competitive intel",
+          "Win-Loss - Capture objective buyer feedback to drive go-to-market strategy",
+          "Deal-based competitive insights",
+          "Proactively supports sellers in competitive deals",
+          "Personalized, actionable content with recommendations",
+          "Integration with Microsoft Teams, Dynamics, Copilot",
+          "Real-time competitive deal intelligence"
+        ],
+        "data_sources_claimed": [
+          "Instagram",
+          "reviews",
+          "Twitter",
+          "LinkedIn",
+          "news",
+          "SEC"
+        ],
+        "integrations_claimed": [
+          "LinkedIn",
+          "Instagram",
+          "Shopify",
+          "Twitter"
+        ],
+        "ai_agent_claims": [
+          "Compete Agent—an AI agent designed to eliminate manual work and deliver real-time competitive deal intelligence directly to sellers",
+          "Your competitive intel operative"
+        ],
+        "notable_quotes": [
+          ")\n\n[![Social-LinkedIn Logo](https://klue.com/wp-content/themes/klue/assets/company-logos/white/Social-LinkedIn.svg?v=0.1)](https://ca.linkedin.com/company/klue",
+          ")\n\n[![Social-Twitter Logo](https://klue.com/wp-content/themes/klue/assets/company-logos/white/Social-Twitter.svg?v=0.1)](https://twitter.com/kluein",
+          ")\n\n[Klue Mail](mailto:info@klue.com)\n\n[Klue Mail](mailto:info@klue.com)\n\n[![Klue-Logo-white.svg](https://klue.com/wp-content/uploads/2023/02/Klue-Logo-white.svg)](https://klue.com/"
+        ]
+      },
+      {
+        "name": "Kompyte",
+        "website": "https://kompyte.com",
+        "category": [
+          "market intelligence",
+          "sales enablement",
+          "competitive intelligence"
+        ],
+        "positioning_summary": "Win More Deals with Competitive Intelligence Close even the most difficult of deals with always up-to-date Battlecards that live where your sales teams work.",
+        "target_users": [
+          "Marketing teams",
+          "Sales teams",
+          "Product managers",
+          "Competitive intelligence teams"
+        ],
+        "key_use_cases": [
+          "dozens of competitors and surface key, deal-winning insights"
+        ],
+        "key_features": [
+          "Surface competitive intelligence where your reps already work",
+          "Measure and increase the adoption of always-updated Battlecards and Reports",
+          "![Hubspot-web-integrations](https://www.kompyte.com/hubfs/Hubspot-web-integrations.png)",
+          "![Salesforce-web-integrations](https://www.kompyte.com/hubfs/Salesforce-web-integrations.png)",
+          "![Slack-web-integrations](https://www.kompyte.com/hubfs/Slack-web-integrations.png)",
+          "![microsoft-teams-web-integrations](https://www.kompyte.com/hubfs/microsoft-teams-web-integrations.png)",
+          "![GoogleDrive-web-integrations](https://www.kompyte.com/hubfs/GoogleDrive-web-integrations.png)",
+          "![oneDrive-web-integrations](https://www.kompyte.com/hubfs/oneDrive-web-integrations.png)",
+          "![Highspot-web-integrations](https://www.kompyte.com/hubfs/Highspot-web-integrations.png)",
+          "![Showpad-web-integrations](https://www.kompyte.com/hubfs/Showpad-web-integrations.png)",
+          "![Hubspot-web-integrations](https://www.kompyte.com/hubfs/Hubspot-web-integrations.png)",
+          "![Salesforce-web-integrations](https://www.kompyte.com/hubfs/Salesforce-web-integrations.png)",
+          "![Slack-web-integrations](https://www.kompyte.com/hubfs/Slack-web-integrations.png)",
+          "![microsoft-teams-web-integrations](https://www.kompyte.com/hubfs/microsoft-teams-web-integrations.png)",
+          "![GoogleDrive-web-integrations](https://www.kompyte.com/hubfs/GoogleDrive-web-integrations.png)",
+          "![oneDrive-web-integrations](https://www.kompyte.com/hubfs/oneDrive-web-integrations.png)",
+          "![Highspot-web-integrations](https://www.kompyte.com/hubfs/Highspot-web-integrations.png)",
+          "![Showpad-web-integrations](https://www.kompyte.com/hubfs/Showpad-web-integrations.png)",
+          "![Hubspot-web-integrations](https://www.kompyte.com/hubfs/Hubspot-web-integrations.png)",
+          "![Salesforce-web-integrations](https://www.kompyte.com/hubfs/Salesforce-web-integrations.png)"
+        ],
+        "data_sources_claimed": [
+          "reviews",
+          "job postings",
+          "websites",
+          "news",
+          "Google"
+        ],
+        "integrations_claimed": [
+          "Microsoft Teams",
+          "Slack",
+          "Google",
+          "Zoom",
+          "Highspot",
+          "Salesforce"
+        ],
+        "notable_quotes": [
+          "Kompyte's platform is incredibly valuable. The web tracking functionality provides a breadth and depth of intel on our competitors. We can see first hand what our competitors are doing, changes they're making, and features they're launching.",
+          "It wasn't just an exercise where we were doing the competitive research and understanding the market trends, but also being able to have that sales enablement piece together was really important to us.",
+          "The level of automation assures us that we can feel confident the system is doing the time-intensive work of delivering the best intel, while we are freed up to focus on other mission critical tasks.",
+          "What makes Kompyte such a useful tool for product marketing teams is the simple, yet effective automation. The team is notified automatically through Slack. We’re now making more informed marketing decisions based on real-time data available for everyone at the same time.",
+          "We work in a highly competitive market and it is critical to maintain our competitive advantage. With Kompyte we have the tools we need to collect and distribute insights across teams."
+        ]
+      },
+      {
+        "name": "Contify",
+        "website": "https://contify.com",
+        "category": [
+          "change monitoring",
+          "competitor monitoring",
+          "competitive intelligence",
+          "sales enablement",
+          "market intelligence"
+        ],
+        "positioning_summary": "TimelyAI-PoweredContextual360°   Intelligence delivered   Grow faster than the market Contify delivers 360° market and competitive intelligence.",
+        "target_users": [
+          "Executives",
+          "Sales teams",
+          "Competitive intelligence teams"
+        ],
+        "key_use_cases": [
+          "take better decisions, faster",
+          "emerging competitors early by tracking mentions in sales calls, news, and forums and take timely actions",
+          "industry M&As and partnerships to uncover potential strategic alliances",
+          "competitors’ product launches, feature updates, and emerging technologies",
+          "customer reviews to understand evolving buyer preferences and market gaps",
+          "competitor website changes and get early insights into their positioning and messaging updates",
+          "competitors’ publishing formats and trends to refine your marketing strategy",
+          "competitors’ event participation and sponsorships to uncover their market focus and engagement",
+          "key account triggers, such as leadership changes, funding, and more, to identify engagement opportunities",
+          "competitor activities like partnerships, regional expansions, and deal wins to refine sales strategies"
+        ],
+        "key_features": [
+          "Stay updated on critical developments across your competitive and industry landscape.",
+          "Identify emerging competitors early by tracking mentions in sales calls, news, and forums and take timely actions.",
+          "Monitor industry M&As and partnerships to uncover potential strategic alliances.",
+          "Track competitors’ product launches, feature updates, and emerging technologies.",
+          "Benchmark your offerings against competitors to refine your product roadmap and address market gaps.",
+          "Analyze customer reviews to understand evolving buyer preferences and market gaps.",
+          "Monitor competitor website changes and get early insights into their positioning and messaging updates.",
+          "Analyze competitors’ publishing formats and trends to refine your marketing strategy.",
+          "Track competitors’ event participation and sponsorships to uncover their market focus and engagement.",
+          "Equip sales teams with up-to-date battlecards and win-loss insights to address buyer objections confidently.",
+          "Monitor key account triggers, such as leadership changes, funding, and more, to identify engagement opportunities.",
+          "Track competitor activities like partnerships, regional expansions, and deal wins to refine sales strategies.",
+          "Support strategic deals with comprehensive intel on accounts, competitors, and executives",
+          "Efficiently manage high volume M&CI requests from different teams.",
+          "Conduct deep-dive research with access to Contify's complete content universe.",
+          "Extracts key business facts from articles, reports, and internal content",
+          "Answers ad-hoc business questions instantly with context-aware precision",
+          "Auto-updates dashboards, battlecards, and timelines with real-time insights",
+          "Provides the clarity, speed, and reliability today’s businesses need"
+        ],
+        "data_sources_claimed": [
+          "reviews",
+          "Google",
+          "news",
+          "SEC",
+          "websites",
+          "forums"
+        ],
+        "integrations_claimed": [
+          "API"
+        ],
+        "ai_agent_claims": [
+          "![AI-powered insights](https://www.contify.com/wp-content/uploads/2025/12/ai-powered-insight.webp)\n\n### Accelerate your growth with smarter intelligence\n\nFind out how Contify delivers the insights you need—right when you need them",
+          "# TimelyAI-PoweredContextual360°   Intelligence delivered   Grow faster than the market\n\nContify delivers 360° market and competitive intelligence"
+        ],
+        "free_trial_or_freemium": "Free trial available"
+      },
+      {
+        "name": "WatchMyCompetitor",
+        "website": "https://watchmycompetitor.com",
+        "category": [
+          "market intelligence"
+        ],
+        "positioning_summary": "WatchMyCompetitor - information not available from website",
+        "target_users": [
+          "Product managers"
+        ],
+        "key_use_cases": [
+          "generate compelling content tailored to your needs, saving you time and effort",
+          "protect and grow revenue",
+          "your entire market, enabling your staff to make faster decisions that protect and grow revenue",
+          "your market and can advise and recommend on product innovation, roadmaps, market trends as well as creating product marketing collateral",
+          "performance drivers and provides actionable insights to help drive successful strategies",
+          "your market and can advise and recommend on product innovation, roadmaps, market trends as well as creating product marketing collateral",
+          "performance drivers and provides actionable insights to help drive successful strategies",
+          "how the platform can help you solve them"
+        ],
+        "key_features": [
+          "[WatchMyCompetitor Has Been Recognised in Gartner's Market Guide for Competitive and Market Intelligence Tools \\| LEARN MORE](https://www.watchmycompetitor.com/resources/recognition/)"
+        ],
+        "ai_agent_claims": [
+          "![](https://storage.googleapis.com/wmc-website-4c68c088418692e9/2026/03/AdobeStock_963704079_Preview.png)\n\n## WMC.Ai Sales Agents\n\nOur AI agent tracks sales trends, identifies opportunities, and delivers actionable insights to help your team close more deals",
+          "![ai dashboard](https://storage.googleapis.com/wmc-website-4c68c088418692e9/2026/03/AdobeStock_916727986_Preview-1.png)\n\n## Create\n\nOur Ai-powered assistant helps you generate compelling content tailored to your needs, saving you time and effort"
+        ]
+      },
+      {
+        "name": "Valona",
+        "website": "https://valona.ai",
+        "category": [
+          "market intelligence",
+          "competitor monitoring",
+          "competitive intelligence"
+        ],
+        "positioning_summary": "See first. Move first. Be first. Valona’s agentic AI continuously works the competitive and market intelligence lifecycle: harvesting signals, anticipating threats, and delivering answers before your competitors have thought to ask the question.",
+        "target_users": [
+          "Executives",
+          "Competitive intelligence teams"
+        ],
+        "key_use_cases": [
+          "200,000+ verified sources and financial performance data — packaging intelligence into formats decision-makers will actually use",
+          "positioning, strategic shifts, and emerging threats with time to respond strategically",
+          "regulatory changes, geopolitical shifts, and market volatility as they emerge—not after they hit Bloomberg"
+        ],
+        "key_features": [
+          "![](https://valonaintelligence.com/wp-content/uploads/2024/09/abb-logo.svg)",
+          "![Kellogs logo](https://valonaintelligence.com/wp-content/uploads/2023/12/kellogs_logo.svg)",
+          "![BASF logo in green](https://valonaintelligence.com/wp-content/uploads/2025/05/basf_pine.svg)",
+          "![](https://valonaintelligence.com/wp-content/uploads/2023/12/bosch_logo.svg)",
+          "![](https://valonaintelligence.com/wp-content/uploads/2024/09/pilgrims-logo.svg)",
+          "![Unilever logo](https://valonaintelligence.com/wp-content/uploads/2023/12/unilever_logo.svg)",
+          "![](https://valonaintelligence.com/wp-content/uploads/2024/09/olympus_logo.svg)",
+          "![HSBC Assurances logo](https://valonaintelligence.com/wp-content/uploads/2024/02/hsbc-assurances-logo.svg)",
+          "![Goodyear logo](https://valonaintelligence.com/wp-content/uploads/2023/12/goodyear_logo.svg)",
+          "![B_Braun_logo](https://valonaintelligence.com/wp-content/uploads/2025/03/b_braun_logo-1.svg)",
+          "![Philips logo](https://valonaintelligence.com/wp-content/uploads/2023/12/philips_logo.svg)",
+          "![Tata logo](https://valonaintelligence.com/wp-content/uploads/2023/12/tata_logo.svg)",
+          "![Hitachi_Energy-logo](https://valonaintelligence.com/wp-content/uploads/2025/03/hitachi_energy-logo.svg)",
+          "![FICO-logo](https://valonaintelligence.com/wp-content/uploads/2025/03/fico-logo.svg)",
+          "![](https://valonaintelligence.com/wp-content/uploads/2026/01/navigation-illustration.webp)",
+          "![](https://valonaintelligence.com/wp-content/uploads/2026/01/trend-radar-valona-1024x683.webp)",
+          "![](https://valonaintelligence.com/wp-content/uploads/2026/01/map-with-news.webp)",
+          "![](https://valonaintelligence.com/wp-content/uploads/2025/09/valona-forrester-wave-leader-2024-market-and-competitive-intelligence-platforms-1024x686.webp)",
+          "![](https://valonaintelligence.com/wp-content/uploads/2025/09/gartner-valona-1024x686.webp)",
+          "![](https://valonaintelligence.com/wp-content/uploads/2025/09/valona-intelligence-market-and-competitive-intelligence-buyers-guide-1024x681.webp)"
+        ],
+        "notable_quotes": [
+          "Valona and A-INSIGHTS: Combining Forces to Build the Future of Intelligence",
+          "Valona Global Intelligence Survey – 20th Anniversary Edition"
+        ]
+      },
+      {
+        "name": "Semrush",
+        "website": "https://semrush.com",
+        "category": [
+          "market intelligence",
+          "seo"
+        ],
+        "positioning_summary": "Semrush Features Get tools to help you brand grow",
+        "target_users": [
+          "Marketing teams"
+        ],
+        "key_use_cases": [
+          "brand grow\n\nand stand out - with AI that helps, not hypes",
+          "how your keywords perform and where you’re gaining ground\\\\\n\\\\\n\\\\\nLearn more\\\\\n\\\\\n\\\\\n4 tools](https://www",
+          "social media content\\\\\n\\\\\n\\\\\nLearn more\\\\\n\\\\\n\\\\\n4 tools](https://www"
+        ],
+        "key_features": [
+          "[Semrush One](https://www.semrush.com/one/)",
+          "[Enterprise](https://enterprise.semrush.com/)",
+          "[Features](https://www.semrush.com/features/)",
+          "[Request a Demo](https://www.semrush.com/kb/request-demo/)",
+          "[Talk to Sales](https://www.semrush.com/company/sales/)",
+          "[AI Visibility Toolkit](https://www.semrush.com/ai-seo/overview/)",
+          "[SEO Toolkit](https://www.semrush.com/seo/)",
+          "[Traffic & Market Toolkit](https://www.semrush.com/analytics/traffic/)",
+          "[Content Toolkit](https://www.semrush.com/content/)",
+          "[Local Toolkit](https://www.semrush.com/local-business/start/)",
+          "[Social Toolkit](https://www.semrush.com/social-media/)",
+          "[Advertising Toolkit](https://www.semrush.com/advertising/)",
+          "[AI PR Toolkit](https://www.semrush.com/pr-toolkit/)",
+          "[Integrations](https://www.semrush.com/company/partner-integrations/)",
+          "[App Center](https://www.semrush.com/apps/)",
+          "[API](https://developer.semrush.com/api/)",
+          "[Data Sources](https://www.semrush.com/kb/997-semrush-data)",
+          "[AdClarity](https://www.semrush.com/apps/adclarity-advertising-intelligence/)",
+          "[Exploding Topics](https://www.semrush.com/apps/exploding-topics/)",
+          "[Other apps](https://www.semrush.com/apps/collection/most-popular/)"
+        ],
+        "data_sources_claimed": [
+          "social media",
+          "Google",
+          "websites",
+          "news"
+        ],
+        "integrations_claimed": [
+          "API",
+          "Google"
+        ],
+        "free_trial_or_freemium": "Free trial available"
+      },
+      {
+        "name": "Ahrefs",
+        "website": "https://ahrefs.com",
+        "category": [
+          "competitive intelligence"
+        ],
+        "positioning_summary": "Ahrefs - competitive intelligence and market monitoring platform"
+      },
+      {
+        "name": "SimilarWeb",
+        "website": "https://www.similarweb.com",
+        "category": [
+          "market intelligence",
+          "seo",
+          "competitor monitoring",
+          "competitive intelligence"
+        ],
+        "positioning_summary": "The \\#1  **Web Intelligence** Solution Monitor your competitors' digital performance with fresh, actionable insights into your market.",
+        "target_users": [
+          "Marketing teams",
+          "E-commerce teams",
+          "Competitive intelligence teams"
+        ],
+        "key_use_cases": [
+          "strategic decision-making in terms of **who is leading and where to improve",
+          "strategic decision-making in terms of **who is leading and where to improve",
+          "strategic decision-making in terms of **who is leading and where to improve",
+          "your competitors' digital performance with fresh, actionable insights into your market",
+          "Gen AI chatbot traffic to stay ahead",
+          "your brand in AI, and uncover high-impact opportunities to boost traffic and ROI",
+          "new opportunities and threats by analyzing market trends, entry difficulty, brand strength, and market size",
+          "rising and declining players to reveal shifts and the real competitive landscape",
+          "your market](https://www",
+          "key site segments and business lines\n\n- ![Description](https://www"
+        ],
+        "key_features": [
+          "![Description](https://www.similarweb.com/corp/wp-content/uploads/2025/09/attachment-Bars.svg)Spot new **competitive threats**",
+          "![Description](https://www.similarweb.com/corp/wp-content/uploads/2025/09/attachment-Sparkles-AI.svg)See competitor marketing tactics",
+          "![Description](https://www.similarweb.com/corp/wp-content/uploads/2025/09/attachment-our-data.svg)Analyze key site segments and business lines",
+          "![Description](https://www.similarweb.com/corp/wp-content/uploads/2025/09/attachment-Icons.svg)Benchmark traffic and performance vs competitors",
+          "![Description](https://www.similarweb.com/corp/wp-content/uploads/2025/09/attachment-roadmao-prioritization.svg)Track competitor moves",
+          "![Description](https://www.similarweb.com/corp/wp-content/uploads/2025/09/attachment-Sparkles-AI.svg)Track Gen-AI traffic & visibility",
+          "![Description](https://www.similarweb.com/corp/wp-content/uploads/2025/09/attachment-Bars.svg)Increase organic traffic",
+          "![Description](https://www.similarweb.com/corp/wp-content/uploads/2025/09/attachment-chartpie.svg)Audit your site and fix SEO issues",
+          "![Description](https://www.similarweb.com/corp/wp-content/uploads/2025/09/attachment-display-advertising.svg)Know your full organic position",
+          "![Description](https://www.similarweb.com/corp/wp-content/uploads/2025/09/attachment-keyword-rank-tracking.svg)Act on real demand data",
+          "![Description](https://www.similarweb.com/corp/wp-content/uploads/2025/09/attachment-our-data.svg)Identify new growth opportunities",
+          "![Description](https://www.similarweb.com/corp/wp-content/uploads/2025/09/attachment-Desktop-and-Mobile.svg)Spot emerging trends",
+          "![Description](https://www.similarweb.com/corp/wp-content/uploads/2025/09/attachment-Hot.svg)Analyze market shifts",
+          "![Description](https://www.similarweb.com/corp/wp-content/uploads/2025/09/attachment-Chart-pie.svg)Measure market share",
+          "![Description](https://www.similarweb.com/corp/wp-content/uploads/2025/09/attachment-keyword-rank-tracking.svg)Track spikes in demand",
+          "![Description](https://www.similarweb.com/corp/wp-content/uploads/2025/09/attachment-Icons.svg)See any competitor’s PPC strategy",
+          "![Description](https://www.similarweb.com/corp/wp-content/uploads/2025/09/attachment-Paid-Keywords.svg)Find top-performing display ads",
+          "![Description](https://www.similarweb.com/corp/wp-content/uploads/2025/09/attachment-Revenue-1.svg)Track cross-channel ad spend",
+          "![Description](https://www.similarweb.com/corp/wp-content/uploads/2025/09/attachment-our-data.svg)Reveal ad performance with trusted data",
+          "![Description](https://www.similarweb.com/corp/wp-content/uploads/2025/09/attachment-display-advertising.svg)Find gaps in campaign coverage"
+        ],
+        "data_sources_claimed": [
+          "Facebook",
+          "Instagram",
+          "Google",
+          "social media",
+          "SEC",
+          "YouTube",
+          "websites"
+        ],
+        "integrations_claimed": [
+          "Google"
+        ],
+        "free_trial_or_freemium": "Free trial available"
+      },
+      {
+        "name": "Brandwatch",
+        "website": "https://brandwatch.com",
+        "category": [
+          "other"
+        ],
+        "positioning_summary": "The most intelligent social suite Leverage pioneering AI and the deepest analytics on the market to make better decisions for your business.",
+        "target_users": [
+          "Marketing teams"
+        ],
+        "key_use_cases": [
+          "turn social and search intelligence into action",
+          "and we’ll show how Brandwatch can help",
+          "your consumers, your brand, and your market",
+          "influencers and manage campaigns with our end-to-end solution",
+          "your brand\n\nSurvive and thrive in a fast-moving digital landscape by keeping your finger on the pulse of consumer opinion\n\n![](https://s14415",
+          "new trends before anyone else and make smarter decisions",
+          "emerging threats across over 100m sources and set up smart, real-time alerts to **respond with speed and confidence before problems develop",
+          "and engage with their consumers"
+        ],
+        "key_features": [
+          "[Careers](https://www.brandwatch.com/company/careers/)",
+          "[Contact](https://www.brandwatch.com/contact/)",
+          "[Support](https://www.brandwatch.com/customer-support/)"
+        ],
+        "data_sources_claimed": [
+          "social media",
+          "Twitter",
+          "news"
+        ],
+        "integrations_claimed": [
+          "Twitter"
+        ]
+      },
+      {
+        "name": "Mention",
+        "website": "https://mention.com",
+        "category": [
+          "market intelligence",
+          "media monitoring"
+        ],
+        "positioning_summary": "Smarter busines decisions   Without the guessing game Monitor the web, analyze online conversations, and manage your social media:",
+        "target_users": [
+          "Marketing teams",
+          "Agencies",
+          "Social media managers"
+        ],
+        "key_use_cases": [
+          "or fully customizable\n- Instant visualizations of your tracked topics with charts, maps, and key numbers\n\n[Discover Analyze](https://mention",
+          "the web, analyze online conversations, and manage your social media:\n\nall with one powerful tool",
+          "its features and the benefits you can expect from using it",
+          "its features and the benefits you can expect from using it",
+          "its features and the benefits you can expect from using it",
+          "our sources\n\nExplore our use cases\n\nCreate your alert\n\nConsult your mentions\n\nAnalyze a negative mention\n\nAnalyze a positive mention\n\nDiscover our rep",
+          "Monitor](https://mention",
+          "Analyze](https://mention",
+          "Engage](https://mention",
+          "our   use cases\n\n### Brand Management\n\nUnderstand and improve your brand's reputation online by easily identifying everything being said about it on t"
+        ],
+        "key_features": [
+          "Easy and intuitive query building",
+          "Keyword-based and page-based monitoring alerts",
+          "Valuable indicators like influence and sentiment",
+          "Comprehensive analytics such as reach, volume, sentiment, location, source, emotion and more.",
+          "Over 10 templates based on your use case or fully customizable",
+          "Instant visualizations of your tracked topics with charts, maps, and key numbers",
+          "Content creation assistance: content curation, AI tools...",
+          "Publish and respond on major social networks",
+          "Collaborative features: approval workflow, content library...",
+          "It comes down to trust. Mention was well known as the experts of media monitoring, so naturally, we went with them. We know we can use their tool and trust it 100%.",
+          "Mention is a crucial tool for shaping our offerings and pricing. Frankly, I consider it indispensable for running my business.",
+          "We were contacted several times by one of Mention's competitors. There were a few differences, but overall, Mention achieved the same results. However, the price had nothing to do with it.... For me, Mention is the best value for money.",
+          "The most important metric for us is being able to anticipate threats. We’re using some of Mention’s reporting tools to bring clients the information before they’ve seen it themselves.",
+          "Mention allowed us to automate media monitoring and get real-time alerts whenever our brand was mentioned online. It saves us hours every week.",
+          "Mention showed a spike in popularity among South Korean Instagram users. We quickly translated our ads to Korean, to target this new",
+          "It comes down to trust. Mention was well known as the experts of media monitoring, so naturally, we went with them. We know we can use their tool and trust it 100%.",
+          "Mention is a crucial tool for shaping our offerings and pricing. Frankly, I consider it indispensable for running my business.",
+          "We were contacted several times by one of Mention's competitors. There were a few differences, but overall, Mention achieved the same results. However, the price had nothing to do with it.... For me, Mention is the best value for money.",
+          "The most important metric for us is being able to anticipate threats. We’re using some of Mention’s reporting tools to bring clients the information before they’ve seen it themselves.",
+          "Mention allowed us to automate media monitoring and get real-time alerts whenever our brand was mentioned online. It saves us hours every week."
+        ],
+        "integrations_claimed": [
+          "Instagram"
+        ]
+      },
+      {
+        "name": "Brand24",
+        "website": "https://brand24.com",
+        "category": [
+          "social listening",
+          "media monitoring"
+        ],
+        "positioning_summary": "![](https://brand24.com/app/uploads/laurels.svg)AI SOCIAL LISTENING TOOL Get AI-powered access to mentions across social media,",
+        "key_use_cases": [
+          "make sense of the data to save you time",
+          "to track mentions that matter",
+          "to measure brand awareness, find influencers, and increase your market share!\n\n[Analyse the share of voice\\\\\n![arrow](https://brand24",
+          "brands\n\n\n\n\n\n\n\nGather insights from 25 million online sources, tracked in real-time",
+          "sentiment\n\n\n\n\n\n\n\nUse advanced sentiment analysis to segment positive, negative, or neutral mentions",
+          "reach and engagement using our state-of-the-art technology",
+          "reach\n\n\n\n\n\n\n\nEvaluate marketing efforts and benchmark against competitors",
+          "the reach and importance of mentions",
+          "your brand health in minutes",
+          "various hashtags and find influencers"
+        ],
+        "key_features": [
+          "![](https://brand24.com/app/uploads/eye-1.svg)",
+          "![Brand24 social listening tool](https://brand24.com/app/uploads/zap-1.svg)",
+          "![](https://brand24.com/app/uploads/clipboard.svg)",
+          "![Brand24](https://brand24.com/app/uploads/magnifying-glass-1.svg)",
+          "![](https://brand24.com/app/uploads/ruler.svg)",
+          "![](https://brand24.com/app/uploads/cog-1.svg)",
+          "![](https://brand24.com/app/uploads/users.svg)",
+          "![](https://brand24.com/app/uploads/bars.svg)",
+          "![](https://brand24.com/app/uploads/collaborate.svg)",
+          "![](https://brand24.com/app/uploads/hashtag-1.svg)",
+          "![](https://brand24.com/app/uploads/chat.svg)",
+          "![](https://brand24.com/app/uploads/globe.svg)",
+          "![](https://brand24.com/app/uploads/message.svg)",
+          "![](https://brand24.com/app/uploads/activity.svg)"
+        ],
+        "integrations_claimed": [
+          "TikTok",
+          "Facebook",
+          "Instagram",
+          "Twitter"
+        ],
+        "ai_agent_claims": [
+          "- ![](https://brand24.com/app/uploads/globe.svg)\n\n\n\n### 108 languages supported\n\n\n\n\n\n\n\nOur AI-powered language detection helps you to track mentions that matter",
+          "Now with even more AI-powered capabilities, it is one of the only tools you need to understand your brand health in minutes.”\n\n[All Testimonials](https://brand24.com/reviews/)\n\n## Track hashtags"
+        ]
+      },
+      {
+        "name": "Sprout Social",
+        "website": "https://sproutsocial.com",
+        "category": [
+          "social listening"
+        ],
+        "positioning_summary": "All the features you need Our plans are packed with the right features, based on your unique business needs. Switch plans at any time or select from our growing list of platform add-ons.",
+        "key_use_cases": [
+          "prioritize and easily focus on messages that require your attention",
+          "humanize the social experience for your audience",
+          "and engage with messages across social networks",
+          "and engage with comments on all of your owned profiles",
+          "and manage your business reviews across Apple App Store, Google Play Store, Facebook, Google My Business, Yelp and more in one unified stream",
+          "activity on your paid posts by monitoring and engaging with comments on your ads in the Smart Inbox",
+          "response rates and times to benchmark engagement goals and improve your social media responsiveness",
+          "response and case metrics at the team level",
+          "feedback, campaign success and sentiment",
+          "response and case metrics at the individual user level"
+        ],
+        "key_features": [
+          "Try disabling your extensions."
+        ],
+        "integrations_claimed": [
+          "Facebook",
+          "Instagram",
+          "Twitter",
+          "LinkedIn",
+          "CSV",
+          "Shopify",
+          "Google",
+          "Salesforce"
+        ]
+      },
+      {
+        "name": "BuzzSumo",
+        "website": "https://buzzsumo.com",
+        "category": [
+          "seo",
+          "competitor monitoring",
+          "media monitoring"
+        ],
+        "positioning_summary": "Be inspired. Stay informed. See how much interest brands and content generate in the wild.",
+        "target_users": [
+          "Marketing teams",
+          "Agencies"
+        ],
+        "key_use_cases": [
+          "between 15 minutes and five years’ worth of data\n- Access our archive of 8bn articles worldwide\n\n[Tell Me More](https://buzzsumo",
+          "the most popular content in any niche\n- Investigate content across Facebook, Twitter, Reddit and YouTube\n- Filter to see what resonates with your audi",
+          "mentions, trends, and updates\n- Create alerts for topics, brands, and keywords\n- Monitor competitor mentions and content to get ahead\n- See new links",
+          "content from key publications and journalists\n\n[Tell Me More](https://buzzsumo",
+          "social engagement while browsing search engines and websites\n- Examine key competitor metrics in seconds\n- Save tons of time on content research\n- Poc",
+          "the performance of published content\n\n[Tell Me More](https://buzzsumo",
+          "content that’s performing well in a niche or with an audience",
+          "coverage, research and outreach to journalists, and track trends",
+          "publication data and social media engagement, as well as mention count, placement (headline, first paragraph, full article), and excerpts"
+        ],
+        "key_features": [
+          "Find and connect with 700K journalists",
+          "Pitch only active journalists, with 330K monthly profile updates",
+          "Spot high-impact journalists with social engagement data",
+          "Get 2x more niche topic results than any other database",
+          "Write relevant pitches, faster with our AI pitching tool",
+          "Discover, pitch, outreach, and report all in one place",
+          "Be inspired by engaging topics and real-time trends",
+          "Tap into viral stories or revamp classics",
+          "Generate content ideas and briefs at the click of a button",
+          "Analyze between 15 minutes and five years’ worth of data",
+          "Access our archive of 8bn articles worldwide",
+          "Discover the most popular content in any niche",
+          "Investigate content across Facebook, Twitter, Reddit and YouTube",
+          "Filter to see what resonates with your audience",
+          "Uncover top content ideas from your competitors",
+          "Study shares, links, and trends over the last five years",
+          "Accurately track mentions, trends, and updates",
+          "Create alerts for topics, brands, and keywords",
+          "Monitor competitor mentions and content to get ahead",
+          "See new links rolling in from around the web"
+        ],
+        "data_sources_claimed": [
+          "Facebook",
+          "Reddit",
+          "Twitter",
+          "social media",
+          "SEC",
+          "YouTube",
+          "websites"
+        ],
+        "integrations_claimed": [
+          "Facebook",
+          "API",
+          "Twitter",
+          "Slack",
+          "YouTube",
+          "Chrome",
+          "TikTok",
+          "Zapier"
+        ],
+        "pricing_notes": "Pricing options: $199/mo, $478/yr, $299/mo, $718/yr",
+        "free_trial_or_freemium": "Free trial available"
+      },
+      {
+        "name": "AlphaSense",
+        "website": "https://www.alpha-sense.com",
+        "category": [
+          "market intelligence",
+          "competitive intelligence"
+        ],
+        "positioning_summary": "Accelerate your workflow with     AI insights you can trust Your biggest decisions deserve the most trusted AI platform for actionable insights. See why the best choose AlphaSense.",
+        "target_users": [
+          "Executives",
+          "Competitive intelligence teams"
+        ],
+        "key_features": [
+          "[Investment Banking](https://www.alpha-sense.com/solutions/financial-services/investment-and-corporate-banking/)",
+          "[Hedge Funds](https://www.alpha-sense.com/solutions/financial-services/hedge-funds/)",
+          "[Private Equity](https://www.alpha-sense.com/solutions/financial-services/private-equity/)",
+          "[Asset Management](https://www.alpha-sense.com/solutions/financial-services/asset-management/)",
+          "[Consulting](https://www.alpha-sense.com/industries/consulting/)",
+          "[Life Sciences & Healthcare](https://www.alpha-sense.com/industries/life-sciences/)",
+          "[Tech, Media, & Telecom](https://www.alpha-sense.com/industries/tech-media-telecom/)",
+          "[Energy](https://www.alpha-sense.com/industries/energy/)",
+          "[Industrials](https://www.alpha-sense.com/industries/industrials/)",
+          "[Consumer Goods & Retail](https://www.alpha-sense.com/industries/consumer-cpg/)"
+        ],
+        "data_sources_claimed": [
+          "broker research",
+          "SEC",
+          "company filings"
+        ],
+        "integrations_claimed": [
+          "Salesforce"
+        ],
+        "free_trial_or_freemium": "Free trial available"
+      },
+      {
+        "name": "Owler",
+        "website": "https://owler.com",
+        "category": [
+          "sales enablement"
+        ],
+        "positioning_summary": "**Follow companies that matter to you — and make smarter business decisions** Owler's exclusive company and industry insights make it easy to find competitors, leads, and up-to-date news – so you can optimize your prospecting and sales results.",
+        "target_users": [
+          "Executives",
+          "Sales teams"
+        ],
+        "key_use_cases": [
+          "new accounts, industry trends, and more**\n\n**Get the latest news updates to stay ahead**\n\n[Learn about Owler Pro](https://corp",
+          "your closest competitors**\n\n**Get real-time alerts and daily emails about relevant company and market news**\n\n[Learn about Owler Community](https://ww",
+          "your direct and indirect competitors with Owler's exclusive competitor graph",
+          "the different ways Owler can help your business grow\n\n[Get Started](https://www"
+        ],
+        "integrations_claimed": [
+          "Facebook",
+          "LinkedIn",
+          "Shopify",
+          "YouTube",
+          "Zoom",
+          "HubSpot"
+        ]
+      },
+      {
+        "name": "Feedly",
+        "website": "https://feedly.com",
+        "category": [
+          "competitive intelligence"
+        ],
+        "positioning_summary": "Feedly - competitive intelligence and market monitoring platform"
+      },
+      {
+        "name": "VisualPing",
+        "website": "https://visualping.io",
+        "category": [
+          "seo",
+          "change monitoring",
+          "competitor monitoring",
+          "competitive intelligence"
+        ],
+        "positioning_summary": "VisualPing - information not available from website",
+        "target_users": [
+          "Executives",
+          "Sales teams",
+          "Product managers",
+          "Competitive intelligence teams"
+        ],
+        "key_use_cases": [
+          "regulations   so you don't have to!\n\nGo\n\nClick Go to take a snapshot\n\n## Alert me when:\n\nCheck:Every day\n\nSend tome@example",
+          "updates fast with a before-and-after screenshot comparison, and highlights of added and removed text",
+          "price changes, press releases, regulatory approvals, competitor activity, share buybacks, product stock, patents and more",
+          "bills, committee hearings, statutes, regulations, executive and judicial changes – regardless of how granular",
+          "accidental or unapproved changes on your website",
+          "price changes, press releases, regulatory approvals, competitor activity, share buybacks, product stock, patents and more",
+          "bills, committee hearings, statutes, regulations, executive and judicial changes – regardless of how granular",
+          "accidental or unapproved changes on your website",
+          "price changes, press releases, regulatory approvals, competitor activity, share buybacks, product stock, patents and more",
+          "bills, committee hearings, statutes, regulations, executive and judicial changes – regardless of how granular"
+        ],
+        "data_sources_claimed": [
+          "reviews",
+          "job postings",
+          "LinkedIn",
+          "Google",
+          "regulatory",
+          "news",
+          "social media",
+          "SEC",
+          "patents",
+          "YouTube",
+          "websites",
+          "press releases"
+        ],
+        "integrations_claimed": [
+          "API",
+          "LinkedIn",
+          "Slack",
+          "YouTube",
+          "Chrome",
+          "Google"
+        ],
+        "free_trial_or_freemium": "Free trial available",
+        "notable_quotes": [
+          ")\n\n[![Fox News](https://visualping.io/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffox-news.f09ef875.jpg&w=828&q=75)](https://www.foxnews.com/video/6236812635001?playlist_id=929831913001#sp=show-clips",
+          ")\n\n[![WSJ](https://visualping.io/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fwsj.826ceebb.jpg&w=828&q=75)](https://www.wsj.com/video/series/joanna-stern-personal-technology/secrets-of-a-covid-19-vaccine-appointment-master-advice-for-any-state/70F70C0D-41E6-4F11-854C-766ACA419891"
+        ]
+      },
+      {
+        "name": "Competitors App",
+        "website": "https://competitors.app",
+        "category": [
+          "seo",
+          "change monitoring",
+          "competitor monitoring"
+        ],
+        "positioning_summary": "Monitor all your competitors'   marketing moves … or [request a 1 on 1 demo](https://meet.competitors.app/book/u/razvangirmacea/t/competitors-app/ \"Request 1 on 1 demo\")",
+        "target_users": [
+          "Agencies"
+        ],
+        "key_use_cases": [
+          "to improve your [marketing strategy based on your competitors](https://competitors",
+          "all your competitors'   marketing moves\n\n[Sign up for FREE](https://app",
+          "your competitor's marketing changes\n\nGet email updates whenever a competitor is taking significant action",
+          "all your Competitor Marketing Moves - YouTube\n\nTap to unmute\n\n[How to use Competitors App 2",
+          "all your Competitor Marketing Moves](https://www",
+          "competitor website changes and learn their strategy, an improvement to their site, or a change to their pricing strategy",
+          "new case studies, feature announcements, or their newest content like webinars and blogs",
+          "your competitors’ reviews from 100+ review websites",
+          "competitive positioning or to generate sales battle cards",
+          "your competitors’ traffic and compare it to your traffic"
+        ],
+        "integrations_claimed": [
+          "Facebook",
+          "Instagram",
+          "Twitter",
+          "LinkedIn",
+          "YouTube"
+        ]
+      },
+      {
+        "name": "Price2Spy",
+        "website": "https://price2spy.com",
+        "category": [
+          "pricing intelligence",
+          "competitor monitoring"
+        ],
+        "positioning_summary": "Price2Spy - information not available from website",
+        "target_users": [
+          "E-commerce teams",
+          "Sales teams"
+        ],
+        "key_use_cases": [
+          "react swiftly and effectively",
+          "make better pricing decisions and grow your business",
+          "of the pricing trends and see how each competitor changed the prices over time",
+          "along with a list of websites you wish to track",
+          "the market changes and make pricing decisions accordingly!\n\n[**Try Free for 14 Days**](https://spy",
+          "competitor prices up to 8 times per day\n- Get instant price change alerts\n- Powerful dynamic pricing engine\n- Over 25 reports to choose from\n- B2B, Lo",
+          "(re)seller prices up to 8 times per day\n- Get instant MAP violation alerts\n- Capturing screenshots as evidence\n- Discover unauthorized sellers\n- B2B,",
+          "traffic and performance, and to provide social media features",
+          "visits and traffic sources so we can measure and improve the performance of our site"
+        ],
+        "key_features": [
+          "![Price2Spy®](https://www.price2spy.com/wp-content/uploads/2022/07/p2s_logo-Rip-Curl-Logo.png)",
+          "![Price2Spy®](https://www.price2spy.com/wp-content/uploads/2022/07/p2s_logo-VidaXL.png)",
+          "![Price2Spy®](https://www.price2spy.com/wp-content/uploads/2022/07/p2s_logo-DKNY-logo-new-transparent.png)",
+          "![Price2Spy®](https://www.price2spy.com/wp-content/uploads/2022/07/p2s_logo-StrMusicali.png)",
+          "![Price2Spy®](https://www.price2spy.com/wp-content/uploads/2022/07/p2s_logo-Epson_logo.svg.png)",
+          "![Price2Spy®](https://www.price2spy.com/wp-content/uploads/2022/07/p2s_logo-Ciceksepeti-Logo.png)",
+          "![Price2Spy®](https://www.price2spy.com/wp-content/uploads/2022/07/p2s_logo-Saint-Gobain_logo.png)",
+          "![Price2Spy®](https://www.price2spy.com/wp-content/uploads/2022/07/p2s_logo-BIGW.png)",
+          "![Price2Spy®](https://www.price2spy.com/wp-content/uploads/2022/07/p2s_logo-Flanco_logo.svg.png)",
+          "![Price2Spy®](https://www.price2spy.com/wp-content/uploads/2022/07/p2s_logo-Rip-Curl-Logo.png)",
+          "![Price2Spy®](https://www.price2spy.com/wp-content/uploads/2022/07/p2s_logo-VidaXL.png)",
+          "![Price2Spy®](https://www.price2spy.com/wp-content/uploads/2022/07/p2s_logo-DKNY-logo-new-transparent.png)",
+          "![Price2Spy®](https://www.price2spy.com/wp-content/uploads/2022/07/p2s_logo-StrMusicali.png)",
+          "![Price2Spy®](https://www.price2spy.com/wp-content/uploads/2022/07/p2s_logo-Epson_logo.svg.png)",
+          "![Price2Spy®](https://www.price2spy.com/wp-content/uploads/2022/07/p2s_logo-Ciceksepeti-Logo.png)",
+          "![Price2Spy®](https://www.price2spy.com/wp-content/uploads/2022/07/p2s_logo-Saint-Gobain_logo.png)",
+          "![Price2Spy®](https://www.price2spy.com/wp-content/uploads/2022/07/p2s_logo-BIGW.png)",
+          "![Price2Spy®](https://www.price2spy.com/wp-content/uploads/2022/07/p2s_logo-Flanco_logo.svg.png)",
+          "![Price2Spy®](https://www.price2spy.com/wp-content/uploads/2022/07/p2s_logo-Rip-Curl-Logo.png)",
+          "![Price2Spy®](https://www.price2spy.com/wp-content/uploads/2022/07/p2s_logo-VidaXL.png)"
+        ],
+        "integrations_claimed": [
+          "API"
+        ]
+      },
+      {
+        "name": "RivalSense",
+        "website": "https://rivalsense.co",
+        "category": [
+          "change monitoring",
+          "competitor monitoring"
+        ],
+        "positioning_summary": "RivalSense - information not available from website",
+        "target_users": [
+          "Marketing teams",
+          "Product managers"
+        ],
+        "key_use_cases": [
+          "ideas for your own growth",
+          "content marketing that helps them grow",
+          "which clients your competitors have gained or lost, and note any new market launches",
+          "competitors for legal issues, financial results, capital raises, or M&A",
+          "competitor websites, social media accounts, company registers, job listings, news sites and other sources, picking up any interesting changes\n\n![](htt",
+          "website changes, job listings, employee Linkedin and Twitter accounts, government registers and much more"
+        ],
+        "integrations_claimed": [
+          "Slack",
+          "Twitter",
+          "Google"
+        ]
+      },
+      {
+        "name": "CompetitorTools",
+        "website": "https://competitortools.io",
+        "category": [
+          "change monitoring",
+          "social listening",
+          "competitor monitoring",
+          "pricing intelligence",
+          "competitive intelligence",
+          "media monitoring",
+          "sales enablement",
+          "seo",
+          "market intelligence"
+        ],
+        "positioning_summary": "A collection of 130 top competitor analysis tools, services, and platforms.",
+        "target_users": [
+          "SEO specialists",
+          "Competitive intelligence teams",
+          "Social media managers",
+          "Executives",
+          "Marketing teams",
+          "Agencies",
+          "Sales teams",
+          "E-commerce teams",
+          "Product managers"
+        ],
+        "key_use_cases": [
+          "identify marketing ideas and opportunities",
+          "improve your content, news, and PR efforts including connecting with journalists",
+          "create content that uses the same words, attributes, and features as those pages to give you the best chance of ranking well for your target keywords",
+          "turn SEO and marketing data into opportunities that can drive customers",
+          "see how your performance stacks up against competitors and track changes over time",
+          "for a market research platform like theirs",
+          "beat your competitive set when ranking for top keywords on organic search",
+          "identify ways to optimize your PPC performance relative to your competitors",
+          "stay ahead of apps competing with you for the same users and markets",
+          "optimize pricing strategies by monitoring your competitors products and prices to better position your products in the market to ultimately increase s"
+        ],
+        "integrations_claimed": [
+          "Facebook",
+          "API",
+          "Instagram",
+          "Twitter",
+          "LinkedIn",
+          "Slack",
+          "CSV",
+          "Shopify",
+          "YouTube",
+          "Google",
+          "Zoom",
+          "TikTok"
+        ],
+        "ai_agent_claims": [
+          "They use both AI and natural language processing to monitor competitor news and events to product customized battle cards deisned to improve win/loss ratios and lower customer acquisition costs",
+          "![Opinly All-in-One Tool Screenshot](https://competitortools.io/tool-screenshots/opinly.png)\n\nOpinly is an AI-powered, all-in-one competitor analysis tool",
+          "![Profound AI Tool Screenshot](https://competitortools.io/tool-screenshots/profound.png)\n\nProfound provides tools for comparing your brand’s performance in AI-powered search against competitors",
+          "It is meant for brands and marketers aiming to understand and improve visibility within AI-powered search results"
+        ]
+      },
+      {
+        "name": "Changeflow",
+        "website": "https://changeflow.com",
+        "category": [
+          "change monitoring",
+          "competitor monitoring",
+          "competitive intelligence",
+          "media monitoring",
+          "market intelligence"
+        ],
+        "positioning_summary": "Never miss a criticalcompetitor update No more manual checking. No more false alerts. Just the web page changes that matter to you, filtered & described with AI.",
+        "target_users": [
+          "PR teams",
+          "Agencies",
+          "Competitive intelligence teams"
+        ],
+        "key_use_cases": [
+          "and pages just don't change often enough to make good use of our 30 day free trial we can extend the trial period",
+          "setup showing AI-powered configuration](https://changeflow",
+          "and a brief description of what updates you want to be told about",
+          "the pages\n\nThe platform navigates to pages, checks for updates and uses AI to determine the relevance of the changes",
+          "in plain English and we handle the rest",
+          "20\npages\n- Email & chat support\n- Onboarding calls & fast troubleshooting\n- Hourly, daily & weekly checks\n- 10 versions saved\n- 2 notification address",
+          "changes on more web resources",
+          "500\npages\n- Everything in Plus, plus\n- Expert email & chat support\n- 20 versions saved\n- 5 notification addresses\n- Import from CSV, Excel & Site craw",
+          "and organise many web sources",
+          "unlimited\npages\n- Everything in Business, plus\n- Allows 10 minute check frequency\n- 50 versions saved\n- 10 users included\n- Unlimited notification add"
+        ],
+        "key_features": [
+          "Email & chat support",
+          "Onboarding calls & fast troubleshooting",
+          "Hourly, daily & weekly checks",
+          "10 versions saved",
+          "2 notification addresses",
+          "Centralized user admin & billing",
+          "Everything in Plus, plus",
+          "Expert email & chat support",
+          "20 versions saved",
+          "5 notification addresses",
+          "Import from CSV, Excel & Site crawl",
+          "Premium page unblocker",
+          "Everything in Business, plus",
+          "Allows 10 minute check frequency",
+          "50 versions saved",
+          "10 users included",
+          "Unlimited notification addresses",
+          "Dedicated account manager",
+          "Concierge setup & onboarding",
+          "Custom plans & payment methods"
+        ],
+        "integrations_claimed": [
+          "API",
+          "Excel",
+          "Microsoft Teams",
+          "Slack",
+          "CSV",
+          "Chrome",
+          "Zapier"
+        ],
+        "ai_agent_claims": [
+          "![Natural language monitor setup showing AI-powered configuration](https://changeflow.com/solutions-images/chat.png)\n\n### 1",
+          "Let our AI agent track the pages\n\nThe platform navigates to pages, checks for updates and uses AI to determine the relevance of the changes",
+          "Describe what matters\n\nTell our AI agent what URLs to monitor and a brief description of what updates you want to be told about",
+          "### AI-powered intelligence\n\nOur AI understands what matters to you and filters out irrelevant changes",
+          "### Natural language setup\n\nNo RSS feeds or manual configuration"
+        ],
+        "notable_quotes": [
+          "Changeflow is an awesome tool, we've tried all of the alternatives and at last we have found something that just works! We use the chatbot to add multiple pages at a time, so quick and easy."
+        ]
+      },
+      {
+        "name": "SalesMotion",
+        "website": "https://salesmotion.io",
+        "category": [
+          "sales enablement"
+        ],
+        "positioning_summary": "Give every rep three AI agentsto build more pipeline. Your reps are Googling accounts, skimming earnings calls, and copy-pasting into ChatGPT. Three AI agents replace all of it — 24/7 account monitoring for buying signals, building instant briefs and POVs, and writing outreach based on real research. The work your best reps do for 10 accounts, done across every account. Every day.",
+        "target_users": [
+          "Executives",
+          "Marketing teams",
+          "Sales teams"
+        ],
+        "key_use_cases": [
+          "relevant account signals",
+          "1,000+ public sources in real time, so intelligence reflects what is happening now, not what happened last quarter"
+        ],
+        "key_features": [
+          "Win US enterprise banking clients511",
+          "Grow B2B revenue to 40% of total1418",
+          "Launch treasury services for mid-market22",
+          "Launching B2B payments platform1624",
+          "Hiring 200-person US sales org2730",
+          "SOC 2 and PCI compliance push3335",
+          "Just secured US banking license32",
+          "IPO preparation underway3638",
+          "Competitor exiting US market34",
+          "Time consuming— Hours of prompting, copying, and pasting per account",
+          "Hard to manage— No shared context, every rep does it differently",
+          "Impossible to scale— Works for 5 accounts, breaks at 500",
+          "Inconsistent quality— Different prompts, different results every time",
+          "Hallucination risk— No source verification, can’t trust the output",
+          "Still manual verification— You end up checking everything anyway",
+          "Stale data— Training cutoffs mean you’re working with yesterday’s news",
+          "Not proactive— Nothing happens until you go look",
+          "Intuitive UX— Beautiful interface your reps will actually use",
+          "Easy to use— No training, no prompt engineering needed",
+          "Automated workflow— Signal Agent → Research Agent → Outreach Agent, every time"
+        ],
+        "integrations_claimed": [
+          "API",
+          "LinkedIn",
+          "Seismic",
+          "Slack",
+          "Shopify",
+          "Google",
+          "Zoom",
+          "Salesforce",
+          "HubSpot"
+        ],
+        "ai_agent_claims": [
+          "[Get in touch with our team](https://salesmotion.io/book-demo)\n\n## Give every rep three AI agents to build more pipeline",
+          "Three AI agents replace all of it — 24/7 account monitoring for buying signals, building instant briefs and POVs, and writing outreach based on real research",
+          "Account Intelligence AI Agents\n\n# Give every rep three AI agentsto build more pipeline",
+          "Salesmotion assigns AI agents to your accounts that continuously research, surface buying signals, and draft outreach — without reps lifting a finger"
+        ]
+      }
+    ],
+    "roundup_articles": [
+      {
+        "url": "https://www.alpha-sense.com/blog/product/competitive-intelligence-tools/",
+        "publisher": "alpha-sense.com",
+        "title": "9 Competitive Intelligence Tools to Trial in 2026 (Buyer’s Guide)",
+        "date": "February 28, 2026",
+        "tools_mentioned": [
+          "Crayon",
+          "Klue",
+          "Kompyte",
+          "Contify",
+          "Semrush",
+          "SimilarWeb",
+          "Mention",
+          "AlphaSense",
+          "Feedly",
+          "SpyFu"
+        ],
+        "selection_criteria": [
+          "**AlphaSense Excel Add-In**: Excel tool with custom formulas and simple syntax, analysis templates, and pre-built Industry Comps to quickly get you up and running.",
+          "**Canalyst Model Access**: 4,500+ ready-to-use models with detailed financials, operating metrics, and segment breakdowns.",
+          "**Purpose-built automations:** One-click agents that run full earnings workflows, from in-depth call analysis to tracking a company’s self-reported guidance to extracting key themes from analyst Q&As.",
+          "**Domain-Specific AI:** Unlike generic AI tools, our AI is trained and benchmarked to understand sector dynamics, valuation methodologies, and market context just like an analyst would."
+        ]
+      },
+      {
+        "url": "https://visualping.io/blog/best-ai-tools-competitor-analysis",
+        "publisher": "visualping.io",
+        "title": "10 Best AI Tools for Competitor Analysis (2026)",
+        "date": "January 7, 2026",
+        "tools_mentioned": [
+          "Klue",
+          "Semrush",
+          "Ahrefs",
+          "SimilarWeb",
+          "Brandwatch",
+          "Mention",
+          "Sprout Social",
+          "BuzzSumo",
+          "VisualPing",
+          "Visualping",
+          "SpyFu",
+          "Google Alerts"
+        ],
+        "selection_criteria": [
+          "**14,797 users** selected \"competitor monitoring\" as their primary use case during onboarding. It ranks as the 4th most popular reason people sign up, after out-of-stock alerts, price tracking, and news monitoring.",
+          "**393 new users** joined specifically for competitor monitoring in March 2026 alone, and that number has held steady for months.",
+          "**68% of competitor monitors run on a 1-to-24-hour cycle.** Another 32% check every 5 to 60 minutes. Nobody doing serious competitive intelligence checks daily or less. The data is clear: competitor websites change often enough that hourly monitoring is the baseline.",
+          "**35% of competitor monitors belong to business teams** (workspace accounts), not individual users. Competitive intelligence scales from a personal project to an organizational function.",
+          "Across the platform, 160 active monitors specifically track competitor analysis tool websites (Semrush, Ahrefs, Similarweb, SpyFu, and others). People monitor the monitors.",
+          "[What Is AI-Powered Competitor Analysis?](https://visualping.io/blog/best-ai-tools-competitor-analysis#what-is-ai-powered-competitor-analysis)",
+          "[Top 10 AI Tools for Competitor Analysis](https://visualping.io/blog/best-ai-tools-competitor-analysis#top-10-ai-tools-for-competitor-analysis-in-2026)",
+          "[Tool Selection Decision Matrix](https://visualping.io/blog/best-ai-tools-competitor-analysis#tool-selection-decision-matrix)",
+          "[Building Your Strategy](https://visualping.io/blog/best-ai-tools-competitor-analysis#how-to-build-an-effective-ai-powered-competitor-analysis-strategy)",
+          "[FAQ](https://visualping.io/blog/best-ai-tools-competitor-analysis#frequently-asked-questions)",
+          "* *"
+        ],
+        "notable_quotes": [
+          "hands down one of the best content monitoring tools out there."
+        ]
+      },
+      {
+        "url": "https://changeflow.com/learn/competitive-intelligence-tools",
+        "publisher": "changeflow.com",
+        "title": "Article",
+        "tools_mentioned": [
+          "Crayon",
+          "Klue",
+          "Kompyte",
+          "Contify",
+          "Semrush",
+          "Mention",
+          "Brand24",
+          "VisualPing",
+          "Visualping",
+          "Price2Spy",
+          "Google Alerts",
+          "Changeflow"
+        ]
+      },
+      {
+        "url": "https://www.guideflow.com/blog/best-competitive-intelligence-tools",
+        "publisher": "guideflow.com",
+        "title": "15 best competitive intelligence tools for 2026",
+        "date": "March 13, 2026",
+        "tools_mentioned": [
+          "Crayon",
+          "Klue",
+          "Kompyte",
+          "Contify",
+          "Semrush",
+          "Ahrefs",
+          "SimilarWeb",
+          "AlphaSense",
+          "Owler",
+          "Feedly",
+          "VisualPing",
+          "Visualping",
+          "SpyFu",
+          "WatchMyCompetitor",
+          "Valona"
+        ],
+        "selection_criteria": [
+          "**Competitive intelligence tools** automate tracking of competitor website changes, pricing shifts, and messaging updates so teams can respond faster",
+          "**All-in-one platforms** like Crayon, Klue, and Contify focus on battlecard creation and sales enablement",
+          "**SEO and traffic tools** like Similarweb and SEMrush show where competitors get their audience",
+          "**Market intelligence platforms** like AlphaSense surface financial data and strategic insights",
+          "The right tool depends on your primary goal: arming sales with battlecards, tracking digital performance, or informing strategic planning",
+          "**Real-time competitor monitoring:** Tracks website changes, pricing updates, product launches, and messaging shifts automatically",
+          "**Battlecard creation:** Builds one-page reference documents that help sales reps position against specific competitors during deals",
+          "**Market and industry analysis:** Aggregates news, financial reports, and trend data across your competitive landscape",
+          "**Alert systems:** Sends notifications when competitors make significant moves",
+          "**CRM and workflow integrations:** Pushes insights directly into Salesforce, HubSpot, Slack, and other GTM tools"
+        ]
+      },
+      {
+        "url": "https://www.buildmvpfast.com/blog/ai-competitive-intelligence-tools-market-monitoring-2026",
+        "publisher": "buildmvpfast.com",
+        "title": "Article",
+        "tools_mentioned": [
+          "Crayon",
+          "Klue",
+          "Kompyte",
+          "Semrush",
+          "SimilarWeb",
+          "Mention",
+          "Feedly",
+          "VisualPing",
+          "Visualping",
+          "Google Alerts"
+        ]
+      },
+      {
+        "url": "https://www.tryanalyze.ai/blog/best-competitive-intelligence-tools",
+        "publisher": "tryanalyze.ai",
+        "title": "Article",
+        "tools_mentioned": [
+          "Crayon",
+          "Klue",
+          "Kompyte",
+          "Contify",
+          "Semrush",
+          "Ahrefs",
+          "SimilarWeb",
+          "Mention",
+          "BuzzSumo",
+          "Owler",
+          "SpyFu",
+          "WatchMyCompetitor",
+          "Valona",
+          "Competitors App"
+        ],
+        "notable_quotes": [
+          "best Salesforce alternatives for medium businesses,",
+          "top customer service software for mid-sized companies in 2026,"
+        ]
+      },
+      {
+        "url": "https://arisegtm.com/blog/competitive-intelligence-automation-2026-playbook",
+        "publisher": "arisegtm.com",
+        "title": "The Complete Guide to Competitive Intelligence Automation in 2026",
+        "date": "Jan 07, 2026",
+        "tools_mentioned": [
+          "Crayon",
+          "Mention",
+          "Google Alerts",
+          "Competitors App"
+        ],
+        "selection_criteria": [
+          "If buying: Evaluate 3-5 CI automation platforms",
+          "If building: Technical architecture design",
+          "If hybrid: Platform evaluation + custom requirements definition",
+          "**Deliverable:** Build/buy/hybrid decision with justification",
+          "Finalise platform selection or build plan",
+          "Build a project plan with milestones",
+          "Assign implementation roles",
+          "Secure budget approval",
+          "**Deliverable:** Implementation plan and kickoff",
+          "Deploy selected platform (if buying)",
+          "AI-driven competitive strategy (2025-2026 horizon)",
+          "2 minutes: Read this summary, understand the opportunity",
+          "10 minutes: Skim section headers and frameworks, grasp the approach",
+          "30 minutes: Read full article, build implementation understanding",
+          "60 minutes: Study frameworks and ROI model, ready to propose internally",
+          "* *",
+          "* *",
+          "The average sales rep spends 8-12 hours per month on competitive research",
+          "50-person sales team = 400-600 hours monthly = $195,000-$292,500 annually (at $65K average loaded salary)",
+          "Product marketing spends 30-40 hours per quarter maintaining battlecards"
+        ],
+        "notable_quotes": [
+          "When sales reps encounter competitive situations, the typical response is straightforward:",
+          "that flags uncertain claims for human review\n\n**Real Impact:** Organisations can now automate battlecard drafting with 85-90% accuracy. Human review shifts from",
+          "reducing time investment by 80%.\n\n**3\\. Contextual Intelligence Delivery**\n\n_2023 Capabilities:_\n\n- Static documents (PDFs, Wiki pages)\n- Manual search required\n- No deal context awareness\n- Generic, not personalised\n\n_2025 Capabilities:_\n\n- CRM-native intelligence (surfaces in deal records)\n- Competitor auto-detection (from deal notes, email, calendar)\n- Contextual surfacing (",
+          "Our event-driven architecture handles 10x the throughput",
+          "fees require human deal experience to accurately represent.\n\n**Strategic Intent:** AI can describe what competitors are doing but struggles with"
+        ]
+      },
+      {
+        "url": "https://www.contify.com/resources/blog/best-competitive-intelligence-tools/",
+        "publisher": "contify.com",
+        "title": "11 Best Competitive Intelligence Tools for Organizations in 2026",
+        "date": "February 29, 2024",
+        "tools_mentioned": [
+          "Crayon",
+          "Klue",
+          "Kompyte",
+          "Contify",
+          "Semrush",
+          "SimilarWeb",
+          "Mention",
+          "AlphaSense",
+          "VisualPing",
+          "Visualping",
+          "SpyFu",
+          "Google Alerts",
+          "WatchMyCompetitor",
+          "Valona"
+        ]
+      },
+      {
+        "url": "https://riffanalytics.ai/blog/best-competitive-analysis-tools",
+        "publisher": "riffanalytics.ai",
+        "title": "Article",
+        "tools_mentioned": [
+          "Crayon",
+          "Klue",
+          "Kompyte",
+          "Semrush",
+          "Ahrefs",
+          "SimilarWeb",
+          "Brandwatch",
+          "Mention",
+          "BuzzSumo",
+          "Owler",
+          "SpyFu",
+          "Competitors App"
+        ]
+      },
+      {
+        "url": "https://www.stridec.com/blog/top-ai-tools-competitor-analysis/",
+        "publisher": "stridec.com",
+        "title": "Top 7 AI Tools for Competitor Analysis in 2026",
+        "date": "March 18, 2026",
+        "tools_mentioned": [
+          "Crayon",
+          "Kompyte",
+          "Semrush",
+          "Ahrefs",
+          "Mention",
+          "Sprout Social",
+          "BuzzSumo",
+          "Google Alerts"
+        ]
+      },
+      {
+        "url": "https://llmrefs.com/blog/best-competitive-intelligence-tools",
+        "publisher": "llmrefs.com",
+        "title": "Article",
+        "tools_mentioned": [
+          "Crayon",
+          "Klue",
+          "Semrush",
+          "Ahrefs",
+          "SimilarWeb",
+          "Mention",
+          "AlphaSense",
+          "Owler",
+          "SpyFu"
+        ],
+        "selection_criteria": [
+          "**Technology Fingerprinting:** Instantly see the full technology profile"
+        ],
+        "notable_quotes": [
+          "that is statistically weighted across more than 11 major LLMs. This provides a clear, data-driven picture of your",
+          "a keyword they missed. This is an immediate, actionable content and service page opportunity.\n- **Lead Generation & Outreach:** The platform can generate lists of leads based on specific criteria, including the types of ads they run or the technologies they use, providing valuable context for outreach.\n\n> **Practical Tip:** Use the",
+          "context to the deeper data from other platforms. For those starting their competitive analysis, you can learn more about how to find competitors of a website on [LLMRefs.com](https://llmrefs.com/blog/how-to-find-competitors-of-a-website).\n\n### Key Features & Use Cases\n\n- **Real-Time Alerts:** Set up",
+          "to instantly find mentions in earnings calls and news that could signal a weakness you can exploit in sales conversations.\n- **Enterprise Document Search:** Securely upload and search your own internal research, reports, and meeting notes alongside external market data for a truly holistic intelligence view.\n\n> **Practical Tip:** Use the",
+          "that categorize companies by function. **Actionable insight**: A product manager can use a market map to identify a crowded sub-sector to avoid, and a"
+        ]
+      },
+      {
+        "url": "https://salesmotion.io/blog/best-competitive-intelligence-tools-sales",
+        "publisher": "salesmotion.io",
+        "title": "Article",
+        "tools_mentioned": [
+          "Crayon",
+          "Klue",
+          "Kompyte",
+          "Semrush",
+          "SimilarWeb",
+          "Mention",
+          "AlphaSense",
+          "Owler",
+          "SalesMotion"
+        ]
+      },
+      {
+        "url": "https://www.figma.com/resource-library/ai-competitor-analysis-tools/",
+        "publisher": "figma.com",
+        "title": "11 AI competitor analysis tools for product teams in 2026",
+        "tools_mentioned": [
+          "Crayon",
+          "Klue",
+          "Contify",
+          "Ahrefs",
+          "SimilarWeb",
+          "Mention",
+          "BuzzSumo",
+          "VisualPing",
+          "Visualping"
+        ]
+      },
+      {
+        "url": "https://gitnux.org/best/competitor-monitoring-software/",
+        "publisher": "gitnux.org",
+        "title": "Article"
+      },
+      {
+        "url": "https://www.price2spy.com/blog/top-competitive-intelligence-tools/",
+        "publisher": "price2spy.com",
+        "title": "Top 5 Competitive Intelligence Tools to Understand What Competitors Are Doing Online",
+        "tools_mentioned": [
+          "Crayon",
+          "Contify",
+          "Semrush",
+          "SimilarWeb",
+          "Mention",
+          "Price2Spy"
+        ],
+        "notable_quotes": [
+          "Top 5 Competitive Intelligence Tools to Understand What Competitors Are Doing Online",
+          "Top 5 Competitive Intelligence Tools to Understand What Competitors Are Doing Online",
+          "Top 5 Competitive Intelligence Tools to Understand What Competitors Are Doing Online"
+        ]
+      },
+      {
+        "url": "https://www.alpha-sense.com/compare/alphasense-vs-klue/",
+        "publisher": "alpha-sense.com",
+        "title": "AlphaSense vs. Klue",
+        "tools_mentioned": [
+          "Crayon",
+          "Klue",
+          "Kompyte",
+          "Contify",
+          "Mention",
+          "AlphaSense"
+        ]
+      },
+      {
+        "url": "https://www.alpha-sense.com/compare/klue-alternatives-competitors/",
+        "publisher": "alpha-sense.com",
+        "title": "Klue Alternatives & Competitors",
+        "tools_mentioned": [
+          "Crayon",
+          "Klue",
+          "Kompyte",
+          "Contify",
+          "Semrush",
+          "Mention",
+          "AlphaSense"
+        ]
+      }
+    ],
+    "meta": {
+      "extraction_date": "2026-03-27",
+      "notes": "Competitive intelligence landscape covering 24 products and 17 roundup articles. Products include positioning, features, integrations, data sources, AI agent claims, and pricing information where available. Data extracted from official product websites and industry roundup/comparison articles."
+    }
+  },
+  "creditsUsed": 0,
+  "expiresAt": "2026-03-28T14:56:03.415Z"
+}
