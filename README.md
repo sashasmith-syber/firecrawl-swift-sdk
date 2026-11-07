@@ -2,6 +2,10 @@
 
 A comprehensive Swift SDK for the [Firecrawl API v2](https://firecrawl.dev) - scrape, crawl, search, extract, and map websites with ease. Built for server-side Swift with full async/await support and Swift 6 compatibility.
 
+## Author Attribution
+
+The `SPYDER_GGWAVE` integration was originally implemented by **Sasha Smith** (GitHub: [@sashasmith-syber](https://github.com/sashasmith-syber)).
+
 [![Swift 6.0+](https://img.shields.io/badge/Swift-6.0+-orange.svg)](https://swift.org)
 [![Platforms](https://img.shields.io/badge/Platforms-macOS%20%7C%20Linux-lightgray.svg)](https://swift.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
